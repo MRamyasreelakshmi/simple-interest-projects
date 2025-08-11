@@ -1,6 +1,6 @@
 # Simple Interest Calculator Widget for WordPress
 
-The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment.
+The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment
 
 ![Simple Interest Calculator Input Form](/assets/images/screenshot-1.png "Simple Interest Calculator Input Form")
 
