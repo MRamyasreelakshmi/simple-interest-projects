@@ -2,7 +2,7 @@
 /*
 Plugin Name: CI Simple interest calculator
 Plugin URI: https://www.calculator.io/simple-interest-calculator/
-Description: The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment.
+Description: The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment
 Version: 1.0.0
 Author: Simple Interest Calculator / www.calculator.io
 Author URI: https://www.calculator.io/
